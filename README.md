@@ -49,13 +49,11 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 - **Backend Technologies:** Python, Node.js, DJango, Express.js
 - **Databases:** mysql, mongodb
 <br>
-- **Version Control & Tools:** 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)]() [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)]() [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)]() [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/) 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/) 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/)
-
+- **Version Control & Tools:**  
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/) 
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/) 
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/)  
 <br>
 
 ## My Projects
