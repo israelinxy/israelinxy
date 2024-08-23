@@ -60,11 +60,8 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 #### Check this out! :eyeglasses: 
 ##### Some of my best f***king projects :desktop_computer: 
 
-
-
-
- **añadir dos proyectos con su imagen, uno de front y otro de back (mirar el github de aristidev para ver como lo ha hecho y el de ferran)**
-
+ In progress...
+ 
 If you want to see all my projects go to the repositories section in my GitHub profile.
 <br>
 
