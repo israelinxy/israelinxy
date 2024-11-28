@@ -57,10 +57,10 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 - **Databases:** MySQL, MongoDB, SQLite
 <br>
 **Version Control & Tools:**  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/) 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/) 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)]() 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)]() 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)]() 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)]()  
 
 ## My Projects
 #### Check this out! :eyeglasses: 
@@ -68,12 +68,11 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 
 > **If you want to see all my projects go to the repositories section in my GitHub profile.**
  
-If you want to see all my projects go to the repositories section in my GitHub profile.
 <br>
 
 ## Contact Me  :email: 
 
-Here is where you contact me -if you want to, of course-.
+Here is where you contact me -if you want to, of course-
 
 [![Blog](https://img.shields.io/badge/Blog-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B&color=363636)](https://tublog.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/israel-collado-moreno)
