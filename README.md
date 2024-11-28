@@ -9,7 +9,6 @@
 ![Banner israel github profile](./israel_github_profile_full-stack_developer.png)
 
 Contact me:
-- 🌐 [My Blog](https://tupaginaweb.com)
 - 💼 [LinkedIn](https://linkedin.com/in/israel-collado-moreno)
 - 📧 [Email Me](mailto:israelinpod@gmail.com)
 <br>
@@ -39,22 +38,29 @@ That's why I leave you here the [link](#check-this-out-eyeglasses) to one of the
 
 But if you want to go to the boring stuff first, here is my **tech-stack**:
 
+[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() 
+[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() 
+[![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() 
+[![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)]() 
+[![Astro](https://img.shields.io/badge/Astro-FF5C00?style=for-the-badge&logo=astro&logoColor=FFFFFF&labelColor=000000)]() 
+[![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=000000&labelColor=101010)]() 
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=000000)]() 
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=000000)]() 
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000000)]() 
+[![SQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
+[![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=000000)]() 
 
-[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=FFFFFF&labelColor=000000)]() [![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=000000&labelColor=101010)]() [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=000000)]() [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=000000)]() [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000000)]()
- [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=000000)]() 
-
-
-- **Frontend Development:** html, css, sass, js, React, Vue.js
-- **Backend Technologies:** Python, Node.js, DJango, Express.js
-- **Databases:** mysql, mongodb
+- **Frontend Development:** HTML, CSS, Sass, JavaScript, TypeScript, React, Astro
+- **Backend Technologies:** Python, Django, Java, Node.js, Express.js
+- **Databases:** MySQL, MongoDB, SQLite
 <br>
-- **Version Control & Tools:**  
+**Version Control & Tools:**  
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/) 
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/) 
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/) 
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/)  
-<br>
 
 ## My Projects
 #### Check this out! :eyeglasses: 
