@@ -10,7 +10,7 @@
 
 Contact me:
 - 💼 [LinkedIn](https://linkedin.com/in/israel-collado-moreno)
-- 📧 [Email Me](mailto:israelinpod@gmail.com)
+- 📧 [Email Me](mailto:israelcolladom@gmail.com)
 <br>
 
 ## About Me :boy:
@@ -81,7 +81,7 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 Here is where you contact me -if you want to, of course-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/israel-collado-moreno)
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=363636)](mailto:israelinpod@gmail.com)
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=363636)](mailto:israelcolladom@gmail.com)
 <br>
 
 ###### Handmade by: **Israel** :black_nib:
