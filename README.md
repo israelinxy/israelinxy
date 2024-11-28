@@ -65,9 +65,9 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 #### Check this out! :eyeglasses: 
 ##### Some of my best f***king projects :desktop_computer: 
 
-![Descripción de la imagen](images/tu_imagen.png)
+![Banner library app image](./library_app_image.png)
 
-Si quieres ver más detalles, visita mi [repositorio aquí](https://github.com/tu_usuario/tu_repositorio).
+Si quieres ver más detalles, visita mi [repositorio aquí](https://github.com/israelinxy/django-biblioteca).
 
 > **If you want to see all my projects go to the repositories section in my GitHub profile.**
  
