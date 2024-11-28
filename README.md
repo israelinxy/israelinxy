@@ -4,7 +4,7 @@
 ### <center>you can call me... :loud_sound: *Isra || Israel* :wink:<center>
 <br>
 
-## :computer: Full-Stack Developer (Frontend + Backend)
+## :computer: Full-Stack Developer (🎨 Frontend + 🗄️ Backend)
 
 ![Banner israel github profile](./israel_github_profile_full-stack_developer.png)
 
@@ -44,9 +44,9 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)]() 
 [![Astro](https://img.shields.io/badge/Astro-FF5C00?style=for-the-badge&logo=astro&logoColor=FFFFFF&labelColor=000000)]() 
-[![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=000000&labelColor=101010)]() 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=000000)]() 
+[![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=000000&labelColor=101010)]() 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=000000)]() 
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000000)]() 
 [![SQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
@@ -57,10 +57,10 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 - **Databases:** MySQL, MongoDB, SQLite
 <br>
 **Version Control & Tools:**  
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/) 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/) 
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/) 
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/) 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/) 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/)  
 
 ## My Projects
 #### Check this out! :eyeglasses: 
