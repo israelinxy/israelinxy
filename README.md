@@ -4,7 +4,7 @@
 ### <center>you can call me... :loud_sound: *Isra || Israel* :wink:<center>
 <br>
 
-## Full-Stack Developer :computer:
+## :computer: Full-Stack Developer (Frontend + Backend)
 
 ![Banner israel github profile](./israel_github_profile_full-stack_developer.png)
 
