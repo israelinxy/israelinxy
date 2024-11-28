@@ -6,7 +6,7 @@
 
 ## Full-Stack Developer :computer: & Blockchain Developer :link:
 
-![Banner israel github profile](./israel_github_profile.png)
+![Banner israel github profile](./israel_github_profile_full-stack_developer.png)
 
 Contact me:
 - 🌐 [My Blog](https://tupaginaweb.com)
