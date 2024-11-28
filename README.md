@@ -55,9 +55,7 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 - **Frontend Development:** HTML, CSS, Sass, JavaScript, TypeScript, React, Astro
 - **Backend Technologies:** Python, Django, Java, Node.js, Express.js
 - **Databases:** MySQL, MongoDB, SQLite
-<br>
-
-**Version Control & Tools:**  
+- **Version Control & Tools:**  
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/)  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/)  
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/)  
@@ -75,7 +73,6 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 
 Here is where you contact me -if you want to, of course-
 
-[![Blog](https://img.shields.io/badge/Blog-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B&color=363636)](https://tublog.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/israel-collado-moreno)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=363636)](mailto:israelinpod@gmail.com)
 <br>
