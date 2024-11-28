@@ -1,7 +1,7 @@
-# <center>:warning: HEY YOU! :warning:<center>
-### <center> My name is... :speaker: *Israel* ,<center>
-### <center>they call me... :sound: *Isra* ,<center>
-### <center>you can call me... :loud_sound: *Isra || Israel* :wink:<center>
+# <p align="center">:warning: HEY YOU! :warning:</p>
+### <p align="center">My name is... :speaker: *Israel*</p>
+### <p align="center">They call me... :sound: *Isra*</p>
+### <p align="center">You can call me... :loud_sound: *Isra || Israel* :wink:</p>
 <br>
 
 ## :computer: Full-Stack Developer (🎨 Frontend + 🗄️ Backend)
@@ -65,12 +65,15 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 #### Check this out! :eyeglasses: 
 ##### Some of my best f***king projects :desktop_computer: 
 
-![Banner library app image](./library_app_image.png)
+|                           |
+|---------------------------|
+| <p align="center"><img src="./library_app_image.jpg" alt="Banner library app image" width="300"></p> <p align="center"><a href="https://github.com/israelinxy/django-biblioteca"><img src="https://img.shields.io/badge/VER%20C%C3%93DIGO-007bff?style=flat&logo=github" alt="VER CÓDIGO"></a></p> |
+| **Project Description**: Web application for managing a library's book collection. |
 
-Si quieres ver más detalles, visita mi [repositorio aquí](https://github.com/israelinxy/django-biblioteca).
+<br>
 
-> **If you want to see all my projects go to the repositories section in my GitHub profile.**
- 
+> **If you want to see all my projects go to the repositories section in [my GitHub profile](https://github.com/israelinxy?tab=repositories).**
+
 <br>
 
 ## Contact Me  :email: 
