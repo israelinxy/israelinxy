@@ -65,7 +65,7 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 #### Check this out! :eyeglasses: 
 ##### Some of my best f***king projects :desktop_computer: 
 
-|                           |
+|Libray App|
 |---------------------------|
 | <p align="center"><img src="./library_app_image.jpg" alt="Banner library app image" width="300"></p> <p align="center"><a href="https://github.com/israelinxy/django-biblioteca"><img src="https://img.shields.io/badge/VER%20C%C3%93DIGO-007bff?style=flat&logo=github" alt="VER CÓDIGO"></a></p> |
 | **Project Description**: Web application for managing a library's book collection. |
