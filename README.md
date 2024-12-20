@@ -42,7 +42,9 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() 
 [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() 
 [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() 
+[![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black&color=%23007ACC)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)]() 
+[![Vue](https://img.shields.io/badge/Vue-white?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=black&color=%234FC08D)]() 
 [![Astro](https://img.shields.io/badge/Astro-FF5C00?style=for-the-badge&logo=astro&logoColor=FFFFFF&labelColor=000000)]() 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=000000)]() 
@@ -52,7 +54,7 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 [![SQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=000000)]() 
 
-- **Frontend Development:** HTML, CSS, Sass, JavaScript, TypeScript, React, Astro
+- **Frontend Development:** HTML, CSS, Sass, JavaScript, TypeScript, React, Vue, Astro
 - **Backend Technologies:** Python, Django, Java, Node.js, Express.js
 - **Databases:** MySQL, MongoDB, SQLite
 - **Version Control & Tools:**  
