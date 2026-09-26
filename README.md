@@ -7,11 +7,11 @@
 ### <p align="center">You can call me... :loud_sound: *Isra || Israel* :wink:</p> 
 -->
 
-# 👋 Hi, I'm Israel
+# <p align="center">👋 Hi, I'm Israel! </p> 
 <br>
 
 ## :computer: Blockchain Developer
-![Banner israel github profile](./banner_blockchain_github _readme.png)
+![Banner israel github profile](./banner_blockchain_github_readme.png)
 
 
 ## About Me :boy:
@@ -52,6 +52,7 @@ I'm currently developing **25+ hands-on Blockchain projects** as part of my Bloc
 
 Before focusing on Blockchain Development, I built my professional background as a **Full-Stack Developer**, developing and maintaining web applications in production environments.
 
+<!--
 [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() 
 [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() 
 [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() 
@@ -67,31 +68,30 @@ Before focusing on Blockchain Development, I built my professional background as
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000000)]() 
 [![SQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=000000)]() 
+-->
 
 - **Blockchain:** `Solidity` `Ethereum` `EVM` `OpenZeppelin` `Web3` `DeFi` `Smart Contracts`
-- **Blockchain:** Solidity Ethereum EVM OpenZeppelin Web3 DeFi Smart Contracts
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vue
-- **Backend:** Python, Django, Node.js, Express.js, Java,
-- **Databases:** MySQL, MongoDB, SQLite
-- **Version Control & Tools:**  
+- **Frontend:** `React` `TypeScript` `JavaScript` `HTML` `CSS` `Vue`
+- **Backend:** `Python` `Django` `Node.js` `Express.js` `Java`
+- **Databases:** `MySQL` `SQL` `MongoDB` `SQLite`
+- **Version Control & Tools:** `Git` `GitHub` `Foundry``Remix` `Hardhat` `Foundry` `MetaMask`
+  <!--
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/)  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/)  
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/)  
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/)
-  `Remix` `Hardhat` `Foundry` `MetaMask`
-
+  -->
+  
 ## My Projects
 
 > **If you want to see all my projects go to the repositories section in [my GitHub profile](https://github.com/israelinxy?tab=repositories).**
 
-<br>
 
 ## Contact Me  :email: 
 
-Here is where you contact me -if you want to, of course-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/israel-collado-moreno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-collado-moreno)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=363636)](mailto:israelcolladom@gmail.com)
+<br>
 <br>
 
 ###### Handmade by: **Israel** :black_nib:
