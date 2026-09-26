@@ -5,7 +5,8 @@
 <br>
 
 ## :computer: Blockchain Developer
-![Banner israel github profile](./israel_github_profile_full-stack_developer.png)
+![Banner israel github profile](./banner_blockchain_github _readme.png   ) 
+banner_blockchain_github _readme.png
 
 Contact me:
 - 💼 [LinkedIn](https://linkedin.com/in/israel-collado-moreno)
