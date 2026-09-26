@@ -1,17 +1,18 @@
+<!-- Esto es un comentario -->
+
+<!-- 
 # <p align="center">:warning: HEY YOU! :warning:</p>
 ### <p align="center">My name is... :speaker: *Israel*</p>
 ### <p align="center">They call me... :sound: *Isra*</p>
-### <p align="center">You can call me... :loud_sound: *Isra || Israel* :wink:</p>
+### <p align="center">You can call me... :loud_sound: *Isra || Israel* :wink:</p> 
+-->
+
+# 👋 Hi, I'm Israel
 <br>
 
 ## :computer: Blockchain Developer
-![Banner israel github profile](./banner_blockchain_github _readme.png   ) 
-banner_blockchain_github _readme.png
+![Banner israel github profile](./banner_blockchain_github _readme.png)
 
-Contact me:
-- 💼 [LinkedIn](https://linkedin.com/in/israel-collado-moreno)
-- 📧 [Email Me](mailto:israelcolladom@gmail.com)
-<br>
 
 ## About Me :boy:
 
