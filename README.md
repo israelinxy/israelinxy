@@ -4,8 +4,7 @@
 ### <p align="center">You can call me... :loud_sound: *Isra || Israel* :wink:</p>
 <br>
 
-## :computer: Full-Stack Developer (🎨 Frontend + 🗄️ Backend)
-
+## :computer: Blockchain Developer
 ![Banner israel github profile](./israel_github_profile_full-stack_developer.png)
 
 Contact me:
@@ -15,28 +14,41 @@ Contact me:
 
 ## About Me :boy:
 
-I am a full-stack developer because I like to build. Yes, I like to build, you didn't read that wrong.
+I'm a developer who likes to build.
 
-When I was a kid I was always asked what I wanted to be when I grew up, and I didn't know what to answer, but what I did know was that when I was on vacation at the beach with my parents I was the kid who made the biggest sand castles (or so I still believe, don't take away my illusion).
+My current focus is **Blockchain Development**, with a particular interest in **Solidity, Smart Contracts, Ethereum, Web3 and DeFi**.
 
-Maybe it doesn't seem to have any relation with being a full-stack developer but for me it does. 
+I'm currently expanding my knowledge through a hands-on approach, building projects that allow me to understand not only how to write Smart Contracts, but also how they interact with the EVM, wallets, transactions and blockchain networks.
 
-When I was a kid I used to build sand castles and now I build applications and web pages. As a kid I used shovels, buckets and sand and now I use a computer, keyboard and mouse. As a kid I made my parents and the other kids who wanted to help me build my wonderful castle happy and now I make people happy who can sell their products and services thanks to me.
-
-wow! 
-
-Now that I am writing these words I realize that I didn't know what I wanted to be when I grew up, but now that I am I realize that I do what I liked to do when I was a kid... build.
+My goal is to continue growing as a **Blockchain Developer** and contribute to the development of secure, efficient and useful decentralized applications and protocols.
 <br>
 
-## My Tech-Stack :hammer_and_wrench:
+## ⛓️ Blockchain & Web3
 
-This is where I tell you everything I know. Yes, I know what you are thinking... “just another person telling me the same old crap, who knows what is true of everything he says here...”.
+My current technical focus includes:
 
-I understand you! 
+- Solidity
+- Smart Contracts
+- Ethereum & EVM
+- ERC-20 and tokenization
+- OpenZeppelin
+- DeFi protocols
+- DEXs & swaps
+- Liquidity pools
+- Lending & borrowing
+- Yield farming
+- Concentrated liquidity
+- Off-chain signatures
+- Gasless transactions
+- Smart Contract Security
+- Gas optimization
+- Low-level Solidity & Assembly
 
-That's why I leave you here the [link](#check-this-out-eyeglasses) to one of the projects I love the most and the rest of the work I've been doing so you can see what I know how to do, but for real! :wink:
+I'm currently developing **25+ hands-on Blockchain projects** as part of my Blockchain development training, covering different aspects of Smart Contract and DeFi development.
 
-But if you want to go to the boring stuff first, here is my **tech-stack**:
+## 💻 Full-Stack Background :hammer_and_wrench:
+
+Before focusing on Blockchain Development, I built my professional background as a **Full-Stack Developer**, developing and maintaining web applications in production environments.
 
 [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() 
 [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() 
@@ -54,25 +66,19 @@ But if you want to go to the boring stuff first, here is my **tech-stack**:
 [![SQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=000000)]() 
 
-- **Frontend Development:** HTML, CSS, Sass, JavaScript, TypeScript, React, Vue, Astro
-- **Backend Technologies:** Python, Django, Java, Node.js, Express.js
+- **Blockchain:** `Solidity` `Ethereum` `EVM` `OpenZeppelin` `Web3` `DeFi` `Smart Contracts`
+- **Blockchain:** Solidity Ethereum EVM OpenZeppelin Web3 DeFi Smart Contracts
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vue
+- **Backend:** Python, Django, Node.js, Express.js, Java,
 - **Databases:** MySQL, MongoDB, SQLite
 - **Version Control & Tools:**  
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/)  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/)  
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000)](https://www.linux.org/)  
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/) 
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=000000)](https://www.figma.com/)
+  `Remix` `Hardhat` `Foundry` `MetaMask`
 
 ## My Projects
-#### Check this out! :eyeglasses: 
-##### Some of my best f***king projects :desktop_computer: 
-
-|Libray App|
-|---------------------------|
-| <p align="center"><img src="./library_app_image.jpg" alt="Banner library app image" width="300"></p> <p align="center"><a href="https://github.com/israelinxy/django-biblioteca"><img src="https://img.shields.io/badge/VER%20C%C3%93DIGO-007bff?style=flat&logo=github" alt="VER CÓDIGO"></a></p> |
-| **Project Description**: Web application for managing a library's book collection. |
-
-<br>
 
 > **If you want to see all my projects go to the repositories section in [my GitHub profile](https://github.com/israelinxy?tab=repositories).**
 
