@@ -74,7 +74,7 @@ Before focusing on Blockchain Development, I built my professional background as
 - **Frontend:** `React` `TypeScript` `JavaScript` `HTML` `CSS` `Vue`
 - **Backend:** `Python` `Django` `Node.js` `Express.js` `Java`
 - **Databases:** `MySQL` `SQL` `MongoDB` `SQLite`
-- **Version Control & Tools:** `Git` `GitHub` ` `Remix` `Hardhat` `Foundry` `MetaMask`
+- **Version Control & Tools:** `Git` `GitHub` `Remix` `Hardhat` `Foundry` `MetaMask`
   <!--
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000)](https://git-scm.com/)  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/)  
